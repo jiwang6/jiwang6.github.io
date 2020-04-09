@@ -50,12 +50,29 @@ body, html {
 
 .description p {
     margin-top: 160px;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 200;
     color: #ebedf1;
 	text-align: left;
 	margin-left: 200px;
     margin-right: 800px;
+}
+
+.description ul {
+    margin-top: 160px;
+    font-size: 30px;
+    font-weight: 200;
+    color: #ebedf1;
+	text-align: left;
+	margin-left: 200px;
+    margin-right: 800px;
+}
+
+.description img {
+	width: 500px;
+	float: right;
+	margin-right: 175px;
+	margin-top:-200px
 }
 
 .container {
