@@ -1,2 +1,2 @@
-# jiwang6.github.io
-webpage
+# Personal Webpage
+Personal webpage soon to be migrated to jimwang.us
